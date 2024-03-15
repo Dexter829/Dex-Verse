@@ -1,10 +1,8 @@
----
-description: About me
----
+# ☢️ General
 
-# ☢️ Dex-Verse&#x20;
+<figure><img src=".gitbook/assets/Photo-Photoroom.png" alt="" width="188"><figcaption><p>If you can believe in it , you can achieve it !</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Photo-Photoroom.png" alt="" width="188"><figcaption><p>If you can believe in it You can do it !</p></figcaption></figure>
+## About ME
 
 ### Hello, I'm Deepak Yadav! 👋
 

@@ -1,15 +1,16 @@
 # Table of contents
 
-* [☢️ Dex-Verse ](README.md)
-* [Welcome!](<README (1).md>)
-* [Quick Start](quick-start.md)
+* [☢️ General](README.md)
+* [📶 My Socials](my-socials.md)
+* [📊 Playing with Data](playing-with-data.md)
+* [🪄 Mere World of Frontend](mere-world-of-frontend.md)
 
-## Reference
+## Data Structures & Algorithsm
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+* [Binary Search](data-structures-and-algorithsm/binary-search/README.md)
+  * [Worst Case](data-structures-and-algorithsm/binary-search/worst-case.md)
+* [Selection Sort](data-structures-and-algorithsm/selection-sort.md)
 
 ***
 
-* [📶 My Socials](my-socials.md)
+* [🐼 Coding Contests](coding-contests.md)
