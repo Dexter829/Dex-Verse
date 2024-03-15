@@ -5,7 +5,7 @@
 * [📊 Playing with Data](playing-with-data.md)
 * [🪄 Mere World of Frontend](mere-world-of-frontend.md)
 
-## Data Structures & Algorithsm
+## ❤️ Data Structures & Algorithsm
 
 * [Binary Search](data-structures-and-algorithsm/binary-search/README.md)
   * [Worst Case](data-structures-and-algorithsm/binary-search/worst-case.md)
