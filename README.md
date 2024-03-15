@@ -1,6 +1,6 @@
 # ☢️ General
 
-<figure><img src=".gitbook/assets/Photo.jpg" alt="" width="188"><figcaption><p>If you can believe in it , you can achieve it !</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Photo.jpg" alt=""><figcaption><p>If you can believe in it , you can achieve it !</p></figcaption></figure>
 
 ## About ME
 
